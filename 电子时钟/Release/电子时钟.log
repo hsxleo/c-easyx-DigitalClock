@@ -1,0 +1,44 @@
+﻿  源.cpp
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(42,1): warning C4326: “main”的返回类型应为“int”而非“void”
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(77,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(77,10): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(83,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(83,10): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(107,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(107,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(108,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(108,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(109,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(109,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(110,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(110,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(111,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(111,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(112,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(112,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(113,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(113,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(114,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(114,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(115,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(115,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(116,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(116,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(117,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(117,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(118,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(118,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(155,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(155,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(161,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(161,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(167,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(167,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(436): warning C4715: “digithour”: 不是所有的控件路径都返回值
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(474): warning C4715: “digitsec”: 不是所有的控件路径都返回值
+E:\program\c++\游戏设计\电子时钟\电子时钟\源.cpp(455): warning C4715: “digitmin”: 不是所有的控件路径都返回值
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  电子时钟.vcxproj -> E:\program\c++\游戏设计\电子时钟\Release\电子时钟.exe
